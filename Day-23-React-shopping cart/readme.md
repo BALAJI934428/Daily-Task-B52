@@ -1,4 +1,4 @@
-to run the Project
+TO RUN THE PROJECT
 
 npm install
 npm install react-bootstrap
